@@ -1,0 +1,1623 @@
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 11:33:01 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test.lp
+Reading time = 0.01 seconds
+: 3 rows, 4 columns, 8 nonzeros
+Optimize a model with 3 rows, 4 columns and 8 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 8e+00]
+  Objective range  [1e+00, 3e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.01s
+Presolved: 3 rows, 4 columns, 8 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -7.8979048e+00   2.361905e+00   0.000000e+00      0s
+       3   -4.1017367e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.01 seconds
+Optimal objective -4.101736695e+00
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 11:34:09 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 11 columns, 110 nonzeros
+Optimize a model with 10 rows, 11 columns and 110 nonzeros
+Coefficient statistics:
+  Matrix range     [7e-01, 3e+01]
+  Objective range  [1e+00, 2e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.01s
+Presolved: 10 rows, 11 columns, 110 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -2.1720530e+03   2.147008e+03   0.000000e+00      0s
+       5   -4.4785007e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 5 iterations and 0.01 seconds
+Optimal objective -4.478500704e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 12:18:17 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-a.lp
+Reading time = 0.00 seconds
+: 3 rows, 4 columns, 8 nonzeros
+Optimize a model with 3 rows, 4 columns and 8 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 8e+00]
+  Objective range  [1e+00, 3e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 3 rows, 4 columns, 8 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -7.8979048e+00   2.361905e+00   0.000000e+00      0s
+       3   -4.1017367e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.00 seconds
+Optimal objective -4.101736695e+00
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 12:23:39 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-a.lp
+Reading time = 0.00 seconds
+: 3 rows, 4 columns, 12 nonzeros
+Optimize a model with 3 rows, 4 columns and 12 nonzeros
+Coefficient statistics:
+  Matrix range     [4e-01, 9e+00]
+  Objective range  [1e+00, 3e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 3 rows, 4 columns, 12 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -2.0669333e+01   6.012083e+00   0.000000e+00      0s
+       2   -1.7600985e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.01 seconds
+Optimal objective -1.760098522e+00
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 12:24:28 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-a.lp
+Reading time = 0.00 seconds
+: 3 rows, 4 columns, 12 nonzeros
+Optimize a model with 3 rows, 4 columns and 12 nonzeros
+Coefficient statistics:
+  Matrix range     [4e-01, 9e+00]
+  Objective range  [1e+00, 3e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 3 rows, 4 columns, 12 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -3.0054286e+01   2.314048e+01   0.000000e+00      0s
+       1   -2.7074157e+00   0.000000e+00   0.000000e+00      0s
+
+Solved in 1 iterations and 0.00 seconds
+Optimal objective -2.707415730e+00
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 12:30:57 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-a.lp
+Reading time = 0.00 seconds
+: 3 rows, 7 columns, 21 nonzeros
+Optimize a model with 3 rows, 7 columns and 21 nonzeros
+Coefficient statistics:
+  Matrix range     [1e-02, 3e+01]
+  Objective range  [1e+00, 9e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve removed 1 rows and 1 columns
+Presolve time: 0.00s
+Presolved: 2 rows, 6 columns, 12 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -6.6176120e+01   6.090838e+00   0.000000e+00      0s
+       2   -1.4179358e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.00 seconds
+Optimal objective -1.417935808e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 12:31:45 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-n.lp
+Reading time = 0.00 seconds
+: 3 rows, 3 columns, 9 nonzeros
+Optimize a model with 3 rows, 3 columns and 9 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 7e+00]
+  Objective range  [1e+00, 6e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 3 rows, 3 columns, 9 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -2.1999800e-01   8.905000e-01   0.000000e+00      0s
+       3   -8.8817842e-16   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.00 seconds
+Optimal objective -8.881784197e-16
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 13:07:12 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 14:36:43 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-n.lp
+Reading time = 0.00 seconds
+: 3 rows, 3 columns, 9 nonzeros
+Optimize a model with 3 rows, 3 columns and 9 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 7e+00]
+  Objective range  [1e+00, 6e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 3 rows, 3 columns, 9 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -2.1999800e-01   8.905000e-01   0.000000e+00      0s
+       3   -8.8817842e-16   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.00 seconds
+Optimal objective -8.881784197e-16
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 14:37:34 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 15:15:54 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 15:16:56 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 15:18:41 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 15:19:31 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 15:20:00 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 15:24:16 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 15:27:30 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 15:27:48 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 15:38:37 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 15:38:48 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 15:38:59 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 15:39:01 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 15:40:52 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 15:41:03 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 16:16:45 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 16:23:22 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 16:24:07 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 16:25:09 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 16:26:05 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-b.lp
+Reading time = 0.05 seconds
+: 100 rows, 1001 columns, 100100 nonzeros
+Optimize a model with 100 rows, 1001 columns and 100100 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-02, 3e+01]
+  Objective range  [1e-01, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.03s
+Presolved: 100 rows, 1001 columns, 100100 nonzeros
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 4.950e+03
+ Factor NZ  : 5.050e+03
+ Factor Ops : 3.384e+05 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   7.33358834e+03 -1.86040752e+04  3.20e-01 3.55e-15  1.33e+01     0s
+   1   5.81186634e+00 -1.87292656e+03  0.00e+00 4.26e-14  8.94e-01     0s
+   2  -8.69373432e+01 -3.44307719e+02  0.00e+00 3.20e-14  1.22e-01     0s
+   3  -1.83306841e+02 -2.24363016e+02  0.00e+00 2.49e-14  1.95e-02     0s
+   4  -2.03231821e+02 -2.10876509e+02  0.00e+00 2.49e-14  3.64e-03     0s
+   5  -2.07202082e+02 -2.08519480e+02  0.00e+00 3.20e-14  6.27e-04     0s
+   6  -2.07950178e+02 -2.08260690e+02  0.00e+00 2.49e-14  1.48e-04     0s
+   7  -2.08128826e+02 -2.08207558e+02  0.00e+00 3.20e-14  3.75e-05     0s
+   8  -2.08169605e+02 -2.08195023e+02  0.00e+00 3.55e-14  1.21e-05     0s
+   9  -2.08184078e+02 -2.08192349e+02  0.00e+00 2.84e-14  3.94e-06     0s
+  10  -2.08189905e+02 -2.08191240e+02  0.00e+00 2.49e-14  6.35e-07     0s
+  11  -2.08191013e+02 -2.08191029e+02  0.00e+00 3.91e-14  7.81e-09     0s
+  12  -2.08191021e+02 -2.08191021e+02  8.08e-09 2.49e-14  1.41e-11     0s
+
+Barrier solved model in 12 iterations and 0.11 seconds
+Optimal objective -2.08191021e+02
+
+Crossover log...
+
+       0 DPushes remaining with DInf 0.0000000e+00                 0s
+
+       0 PPushes remaining with PInf 0.0000000e+00                 0s
+
+  Push phase complete: Pinf 0.0000000e+00, Dinf 7.9507668e-13      0s
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       3   -2.0819102e+02   0.000000e+00   0.000000e+00      0s
+       3   -2.0819102e+02   0.000000e+00   0.000000e+00      0s
+
+Solved with barrier
+Solved in 3 iterations and 0.14 seconds
+Optimal objective -2.081910212e+02
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 16:31:45 2017
+
+Academic license - for non-commercial use only
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 16:32:10 2017
+
+Academic license - for non-commercial use only
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 16:32:21 2017
+
+Academic license - for non-commercial use only
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 16:33:12 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 16:33:32 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-b.lp
+Reading time = 0.05 seconds
+: 100 rows, 1001 columns, 100100 nonzeros
+Optimize a model with 100 rows, 1001 columns and 100100 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-02, 3e+01]
+  Objective range  [1e-01, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.02s
+Presolved: 100 rows, 1001 columns, 100100 nonzeros
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 4.950e+03
+ Factor NZ  : 5.050e+03
+ Factor Ops : 3.384e+05 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   7.33358834e+03 -1.86040752e+04  3.20e-01 3.55e-15  1.33e+01     0s
+   1   5.81186634e+00 -1.87292656e+03  0.00e+00 4.26e-14  8.94e-01     0s
+   2  -8.69373432e+01 -3.44307719e+02  0.00e+00 3.20e-14  1.22e-01     0s
+   3  -1.83306841e+02 -2.24363016e+02  0.00e+00 2.49e-14  1.95e-02     0s
+   4  -2.03231821e+02 -2.10876509e+02  0.00e+00 2.49e-14  3.64e-03     0s
+   5  -2.07202082e+02 -2.08519480e+02  0.00e+00 3.20e-14  6.27e-04     0s
+   6  -2.07950178e+02 -2.08260690e+02  0.00e+00 2.49e-14  1.48e-04     0s
+   7  -2.08128826e+02 -2.08207558e+02  0.00e+00 3.20e-14  3.75e-05     0s
+   8  -2.08169605e+02 -2.08195023e+02  0.00e+00 3.55e-14  1.21e-05     0s
+   9  -2.08184078e+02 -2.08192349e+02  0.00e+00 2.84e-14  3.94e-06     0s
+  10  -2.08189905e+02 -2.08191240e+02  0.00e+00 2.49e-14  6.35e-07     0s
+  11  -2.08191013e+02 -2.08191029e+02  0.00e+00 3.91e-14  7.81e-09     0s
+  12  -2.08191021e+02 -2.08191021e+02  8.08e-09 2.49e-14  1.41e-11     0s
+
+Barrier solved model in 12 iterations and 0.10 seconds
+Optimal objective -2.08191021e+02
+
+Crossover log...
+
+       0 DPushes remaining with DInf 0.0000000e+00                 0s
+
+       0 PPushes remaining with PInf 0.0000000e+00                 0s
+
+  Push phase complete: Pinf 0.0000000e+00, Dinf 7.9507668e-13      0s
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       3   -2.0819102e+02   0.000000e+00   0.000000e+00      0s
+       3   -2.0819102e+02   0.000000e+00   0.000000e+00      0s
+
+Solved with barrier
+Solved in 3 iterations and 0.12 seconds
+Optimal objective -2.081910212e+02
+
+Gurobi 7.5.1 (mac64, Python) logging started Fri Sep 22 19:05:47 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-b.lp
+Reading time = 0.05 seconds
+: 100 rows, 1001 columns, 100100 nonzeros
+Optimize a model with 100 rows, 1001 columns and 100100 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-02, 3e+01]
+  Objective range  [1e-01, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.03s
+Presolved: 100 rows, 1001 columns, 100100 nonzeros
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 4.950e+03
+ Factor NZ  : 5.050e+03
+ Factor Ops : 3.384e+05 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   7.33358834e+03 -1.86040752e+04  3.20e-01 3.55e-15  1.33e+01     0s
+   1   5.81186634e+00 -1.87292656e+03  0.00e+00 4.26e-14  8.94e-01     0s
+   2  -8.69373432e+01 -3.44307719e+02  0.00e+00 3.20e-14  1.22e-01     0s
+   3  -1.83306841e+02 -2.24363016e+02  0.00e+00 2.49e-14  1.95e-02     0s
+   4  -2.03231821e+02 -2.10876509e+02  0.00e+00 2.49e-14  3.64e-03     0s
+   5  -2.07202082e+02 -2.08519480e+02  0.00e+00 3.20e-14  6.27e-04     0s
+   6  -2.07950178e+02 -2.08260690e+02  0.00e+00 2.49e-14  1.48e-04     0s
+   7  -2.08128826e+02 -2.08207558e+02  0.00e+00 3.20e-14  3.75e-05     0s
+   8  -2.08169605e+02 -2.08195023e+02  0.00e+00 3.55e-14  1.21e-05     0s
+   9  -2.08184078e+02 -2.08192349e+02  0.00e+00 2.84e-14  3.94e-06     0s
+  10  -2.08189905e+02 -2.08191240e+02  0.00e+00 2.49e-14  6.35e-07     0s
+  11  -2.08191013e+02 -2.08191029e+02  0.00e+00 3.91e-14  7.81e-09     0s
+  12  -2.08191021e+02 -2.08191021e+02  8.08e-09 2.49e-14  1.41e-11     0s
+
+Barrier solved model in 12 iterations and 0.12 seconds
+Optimal objective -2.08191021e+02
+
+Crossover log...
+
+       0 DPushes remaining with DInf 0.0000000e+00                 0s
+
+       0 PPushes remaining with PInf 0.0000000e+00                 0s
+
+  Push phase complete: Pinf 0.0000000e+00, Dinf 7.9507668e-13      0s
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       3   -2.0819102e+02   0.000000e+00   0.000000e+00      0s
+       3   -2.0819102e+02   0.000000e+00   0.000000e+00      0s
+
+Solved with barrier
+Solved in 3 iterations and 0.15 seconds
+Optimal objective -2.081910212e+02
+
+Gurobi 7.5.1 (mac64, Python) logging started Sat Sep 23 21:27:21 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-b.lp
+Reading time = 0.17 seconds
+: 100 rows, 1001 columns, 100100 nonzeros
+Optimize a model with 100 rows, 1001 columns and 100100 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-02, 3e+01]
+  Objective range  [1e-01, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.12s
+Presolved: 100 rows, 1001 columns, 100100 nonzeros
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 4.950e+03
+ Factor NZ  : 5.050e+03
+ Factor Ops : 3.384e+05 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   7.33358834e+03 -1.86040752e+04  3.20e-01 3.55e-15  1.33e+01     0s
+   1   5.81186634e+00 -1.87292656e+03  0.00e+00 4.26e-14  8.94e-01     0s
+   2  -8.69373432e+01 -3.44307719e+02  0.00e+00 3.20e-14  1.22e-01     0s
+   3  -1.83306841e+02 -2.24363016e+02  0.00e+00 2.49e-14  1.95e-02     0s
+   4  -2.03231821e+02 -2.10876509e+02  0.00e+00 2.49e-14  3.64e-03     0s
+   5  -2.07202082e+02 -2.08519480e+02  0.00e+00 3.20e-14  6.27e-04     0s
+   6  -2.07950178e+02 -2.08260690e+02  0.00e+00 2.49e-14  1.48e-04     0s
+   7  -2.08128826e+02 -2.08207558e+02  0.00e+00 3.20e-14  3.75e-05     0s
+   8  -2.08169605e+02 -2.08195023e+02  0.00e+00 3.55e-14  1.21e-05     0s
+   9  -2.08184078e+02 -2.08192349e+02  0.00e+00 2.84e-14  3.94e-06     0s
+  10  -2.08189905e+02 -2.08191240e+02  0.00e+00 2.49e-14  6.35e-07     0s
+  11  -2.08191013e+02 -2.08191029e+02  0.00e+00 3.91e-14  7.81e-09     0s
+  12  -2.08191021e+02 -2.08191021e+02  8.08e-09 2.49e-14  1.41e-11     0s
+
+Barrier solved model in 12 iterations and 0.37 seconds
+Optimal objective -2.08191021e+02
+
+Crossover log...
+
+       0 DPushes remaining with DInf 0.0000000e+00                 0s
+
+       0 PPushes remaining with PInf 0.0000000e+00                 0s
+
+  Push phase complete: Pinf 0.0000000e+00, Dinf 7.9507668e-13      0s
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       3   -2.0819102e+02   0.000000e+00   0.000000e+00      0s
+       3   -2.0819102e+02   0.000000e+00   0.000000e+00      0s
+
+Solved with barrier
+Solved in 3 iterations and 0.44 seconds
+Optimal objective -2.081910212e+02
+
+Gurobi 7.5.1 (mac64, Python) logging started Sat Sep 23 21:27:43 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-b.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Sun Sep 24 17:54:18 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-b.lp
+Reading time = 0.01 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.01s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.01 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Sun Sep 24 17:54:39 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-b.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Sun Sep 24 17:55:06 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-b.lp
+Reading time = 0.05 seconds
+: 100 rows, 1001 columns, 100100 nonzeros
+Optimize a model with 100 rows, 1001 columns and 100100 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-02, 3e+01]
+  Objective range  [1e-01, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.02s
+Presolved: 100 rows, 1001 columns, 100100 nonzeros
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 4.950e+03
+ Factor NZ  : 5.050e+03
+ Factor Ops : 3.384e+05 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   7.33358834e+03 -1.86040752e+04  3.20e-01 3.55e-15  1.33e+01     0s
+   1   5.81186634e+00 -1.87292656e+03  0.00e+00 4.26e-14  8.94e-01     0s
+   2  -8.69373432e+01 -3.44307719e+02  0.00e+00 3.20e-14  1.22e-01     0s
+   3  -1.83306841e+02 -2.24363016e+02  0.00e+00 2.49e-14  1.95e-02     0s
+   4  -2.03231821e+02 -2.10876509e+02  0.00e+00 2.49e-14  3.64e-03     0s
+   5  -2.07202082e+02 -2.08519480e+02  0.00e+00 3.20e-14  6.27e-04     0s
+   6  -2.07950178e+02 -2.08260690e+02  0.00e+00 2.49e-14  1.48e-04     0s
+   7  -2.08128826e+02 -2.08207558e+02  0.00e+00 3.20e-14  3.75e-05     0s
+   8  -2.08169605e+02 -2.08195023e+02  0.00e+00 3.55e-14  1.21e-05     0s
+   9  -2.08184078e+02 -2.08192349e+02  0.00e+00 2.84e-14  3.94e-06     0s
+  10  -2.08189905e+02 -2.08191240e+02  0.00e+00 2.49e-14  6.35e-07     0s
+  11  -2.08191013e+02 -2.08191029e+02  0.00e+00 3.91e-14  7.81e-09     0s
+  12  -2.08191021e+02 -2.08191021e+02  8.08e-09 2.49e-14  1.41e-11     0s
+
+Barrier solved model in 12 iterations and 0.10 seconds
+Optimal objective -2.08191021e+02
+
+Crossover log...
+
+       0 DPushes remaining with DInf 0.0000000e+00                 0s
+
+       0 PPushes remaining with PInf 0.0000000e+00                 0s
+
+  Push phase complete: Pinf 0.0000000e+00, Dinf 7.9507668e-13      0s
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       3   -2.0819102e+02   0.000000e+00   0.000000e+00      0s
+       3   -2.0819102e+02   0.000000e+00   0.000000e+00      0s
+
+Solved with barrier
+Solved in 3 iterations and 0.12 seconds
+Optimal objective -2.081910212e+02
+
+Gurobi 7.5.1 (mac64, Python) logging started Mon Sep 25 10:08:01 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-b.lp
+Reading time = 0.15 seconds
+: 100 rows, 1001 columns, 100100 nonzeros
+Optimize a model with 100 rows, 1001 columns and 100100 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-02, 3e+01]
+  Objective range  [1e-01, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.07s
+Presolved: 100 rows, 1001 columns, 100100 nonzeros
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 4.950e+03
+ Factor NZ  : 5.050e+03
+ Factor Ops : 3.384e+05 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   7.33358834e+03 -1.86040752e+04  3.20e-01 3.55e-15  1.33e+01     0s
+   1   5.81186634e+00 -1.87292656e+03  0.00e+00 4.26e-14  8.94e-01     0s
+   2  -8.69373432e+01 -3.44307719e+02  0.00e+00 3.20e-14  1.22e-01     0s
+   3  -1.83306841e+02 -2.24363016e+02  0.00e+00 2.49e-14  1.95e-02     0s
+   4  -2.03231821e+02 -2.10876509e+02  0.00e+00 2.49e-14  3.64e-03     0s
+   5  -2.07202082e+02 -2.08519480e+02  0.00e+00 3.20e-14  6.27e-04     0s
+   6  -2.07950178e+02 -2.08260690e+02  0.00e+00 2.49e-14  1.48e-04     0s
+   7  -2.08128826e+02 -2.08207558e+02  0.00e+00 3.20e-14  3.75e-05     0s
+   8  -2.08169605e+02 -2.08195023e+02  0.00e+00 3.55e-14  1.21e-05     0s
+   9  -2.08184078e+02 -2.08192349e+02  0.00e+00 2.84e-14  3.94e-06     0s
+  10  -2.08189905e+02 -2.08191240e+02  0.00e+00 2.49e-14  6.35e-07     0s
+  11  -2.08191013e+02 -2.08191029e+02  0.00e+00 3.91e-14  7.81e-09     0s
+  12  -2.08191021e+02 -2.08191021e+02  8.08e-09 2.49e-14  1.41e-11     0s
+
+Barrier solved model in 12 iterations and 0.20 seconds
+Optimal objective -2.08191021e+02
+
+Crossover log...
+
+       0 DPushes remaining with DInf 0.0000000e+00                 0s
+
+       0 PPushes remaining with PInf 0.0000000e+00                 0s
+
+  Push phase complete: Pinf 0.0000000e+00, Dinf 7.9507668e-13      0s
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       3   -2.0819102e+02   0.000000e+00   0.000000e+00      0s
+       3   -2.0819102e+02   0.000000e+00   0.000000e+00      0s
+
+Solved with barrier
+Solved in 3 iterations and 0.25 seconds
+Optimal objective -2.081910212e+02
+
+Gurobi 7.5.1 (mac64, Python) logging started Mon Sep 25 10:08:20 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-b.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Mon Sep 25 10:13:22 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-b.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.01 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Mon Sep 25 10:15:01 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-b.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.01 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Mon Sep 25 10:15:20 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-b.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Mon Sep 25 10:20:12 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-b.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.01 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Mon Sep 25 10:20:49 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-b.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Mon Sep 25 10:36:44 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-b.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.01 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Mon Sep 25 10:37:49 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-n.lp
+Reading time = 0.00 seconds
+: 3 rows, 3 columns, 9 nonzeros
+Optimize a model with 3 rows, 3 columns and 9 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 7e+00]
+  Objective range  [1e+00, 6e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 3 rows, 3 columns, 9 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -2.1999800e-01   8.905000e-01   0.000000e+00      0s
+       3   -8.8817842e-16   0.000000e+00   0.000000e+00      0s
+
+Solved in 3 iterations and 0.00 seconds
+Optimal objective -8.881784197e-16
+
+Gurobi 7.5.1 (mac64, Python) logging started Mon Sep 25 10:38:29 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.00 seconds
+Optimal objective -1.107914702e+01
+
+Gurobi 7.5.1 (mac64, Python) logging started Mon Sep 25 10:40:40 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-b.lp
+Reading time = 0.05 seconds
+: 100 rows, 1001 columns, 100100 nonzeros
+Optimize a model with 100 rows, 1001 columns and 100100 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-02, 3e+01]
+  Objective range  [1e-01, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+
+Concurrent LP optimizer: dual simplex and barrier
+Showing barrier log only...
+
+Presolve time: 0.02s
+Presolved: 100 rows, 1001 columns, 100100 nonzeros
+
+Ordering time: 0.00s
+
+Barrier statistics:
+ AA' NZ     : 4.950e+03
+ Factor NZ  : 5.050e+03
+ Factor Ops : 3.384e+05 (less than 1 second per iteration)
+ Threads    : 1
+
+                  Objective                Residual
+Iter       Primal          Dual         Primal    Dual     Compl     Time
+   0   7.33358834e+03 -1.86040752e+04  3.20e-01 3.55e-15  1.33e+01     0s
+   1   5.81186634e+00 -1.87292656e+03  0.00e+00 4.26e-14  8.94e-01     0s
+   2  -8.69373432e+01 -3.44307719e+02  0.00e+00 3.20e-14  1.22e-01     0s
+   3  -1.83306841e+02 -2.24363016e+02  0.00e+00 2.49e-14  1.95e-02     0s
+   4  -2.03231821e+02 -2.10876509e+02  0.00e+00 2.49e-14  3.64e-03     0s
+   5  -2.07202082e+02 -2.08519480e+02  0.00e+00 3.20e-14  6.27e-04     0s
+   6  -2.07950178e+02 -2.08260690e+02  0.00e+00 2.49e-14  1.48e-04     0s
+   7  -2.08128826e+02 -2.08207558e+02  0.00e+00 3.20e-14  3.75e-05     0s
+   8  -2.08169605e+02 -2.08195023e+02  0.00e+00 3.55e-14  1.21e-05     0s
+   9  -2.08184078e+02 -2.08192349e+02  0.00e+00 2.84e-14  3.94e-06     0s
+  10  -2.08189905e+02 -2.08191240e+02  0.00e+00 2.49e-14  6.35e-07     0s
+  11  -2.08191013e+02 -2.08191029e+02  0.00e+00 3.91e-14  7.81e-09     0s
+  12  -2.08191021e+02 -2.08191021e+02  8.08e-09 2.49e-14  1.41e-11     0s
+
+Barrier solved model in 12 iterations and 0.11 seconds
+Optimal objective -2.08191021e+02
+
+Crossover log...
+
+       0 DPushes remaining with DInf 0.0000000e+00                 0s
+
+       0 PPushes remaining with PInf 0.0000000e+00                 0s
+
+  Push phase complete: Pinf 0.0000000e+00, Dinf 7.9507668e-13      0s
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       3   -2.0819102e+02   0.000000e+00   0.000000e+00      0s
+       3   -2.0819102e+02   0.000000e+00   0.000000e+00      0s
+
+Solved with barrier
+Solved in 3 iterations and 0.12 seconds
+Optimal objective -2.081910212e+02
+
+Gurobi 7.5.1 (mac64, Python) logging started Mon Sep 25 11:02:58 2017
+
+Academic license - for non-commercial use only
+Read LP format model from file test-l.lp
+Reading time = 0.00 seconds
+: 10 rows, 21 columns, 210 nonzeros
+Optimize a model with 10 rows, 21 columns and 210 nonzeros
+Coefficient statistics:
+  Matrix range     [6e-01, 3e+01]
+  Objective range  [1e+00, 3e+01]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [0e+00, 0e+00]
+Presolve time: 0.00s
+Presolved: 10 rows, 21 columns, 210 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0   -1.1696598e+02   7.402341e+01   0.000000e+00      0s
+      10   -1.1079147e+01   0.000000e+00   0.000000e+00      0s
+
+Solved in 10 iterations and 0.01 seconds
+Optimal objective -1.107914702e+01

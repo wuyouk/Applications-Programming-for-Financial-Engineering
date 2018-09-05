@@ -1,0 +1,3 @@
+LIBRARY powerdll
+EXPORTS
+power @1

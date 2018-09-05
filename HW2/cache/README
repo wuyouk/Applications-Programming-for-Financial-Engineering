@@ -1,0 +1,25 @@
+1. Compile this program for release (you will see the option at the top of the
+IDE).
+
+2. Let's say that the name of the executable is sr.exe (in Window).  Then you
+can use he program as (for example)
+
+sr r 100 1000 50
+
+or
+
+sr c 100 1000 50
+
+This uses a 100x1000 matrix, and does 50 runs. When in mode "r" it does so by
+rows (the faster, in general, mode) and when in mode "c" the computation is done by columns.  If rowsxcolumns is too big you may run out of memory: the total
+number of bytes will be 8xrowsxcolumns and (if you look inside the program)
+you will see that we are actually allocating twice as much.
+
+1. Why does the program crash sometimes, like it did for me in class?  [Hint:
+look at the last printf).
+
+2. In addition to the "r" and "c" modes there is a "w" mode, which is how we
+actually have been implementing the algorithm.  The "w" mode and the "r" mode
+are essentially as good as each other, though statistically I would bet on the
+"w" mode.  But take a look at how it is implemented, in particular the use of
+the variable "p".  What does that do?  Try to see what happens with a small number of rows and columns, and follow the value of p in the debugger.

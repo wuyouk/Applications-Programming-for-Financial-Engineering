@@ -1,0 +1,3 @@
+#define NOMEMORY 100
+#define CANNOTOPENFILE 200
+
